@@ -1,7 +1,7 @@
 # Description
 
 ### In progress.
-Created a fully functional e-commerce platform using PostgreSQL as the backend database. 
+Created a functional login system for an e-commerce platform using PostgreSQL as the backend database. 
 
 ### LICENSE
 
