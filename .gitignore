@@ -1,2 +1,5 @@
 # Prototype testing folder
 prototype/
+
+# .env file
+.env
