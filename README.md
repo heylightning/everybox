@@ -3,6 +3,11 @@
 ### In progress.
 Created a functional login system for an e-commerce platform using PostgreSQL as the backend database. 
 
+## Setup main.js file: -
+1. Install and setup everything that is mentioned in **requirements.md** file.
+2. Clone the repository using this command: ` $ git clone git@github.com:heylightning/everybox.git `
+3. Run **main.js** using this command: ` npm run dev `
+
 ### LICENSE
 
 MIT License
