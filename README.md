@@ -7,6 +7,7 @@ Created a functional login system for an e-commerce platform using PostgreSQL as
 1. Install and setup everything that is mentioned in **requirements.md** file.
 2. Clone the repository using this command: ` $ git clone git@github.com:heylightning/everybox.git `
 3. Run **main.js** using this command: ` npm run dev `
+4. Hit to port: ` 3000 `
 
 ### LICENSE
 
