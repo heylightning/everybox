@@ -1,6 +1,5 @@
 # Description
 
-### In progress.
 Created a functional login system for an e-commerce platform using PostgreSQL as the backend database. 
 
 ## Setup main.js file: -
